@@ -1,1 +1,7 @@
-# BWD-jawadchaieb-2223
+# Basic Web Development
+
+- Academiejaar: 
+- Opleiding: 
+- Klasgroep: 
+- Naam: 
+
