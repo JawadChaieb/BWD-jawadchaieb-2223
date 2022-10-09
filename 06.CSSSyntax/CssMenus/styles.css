@@ -1,6 +1,6 @@
-.active1 a{
-    background-color: #74c593!important;
-  }
+.active1 a {
+    background-color: #74c593 !important;
+}
 
 #menu1 {
     list-style: none;
@@ -37,9 +37,9 @@
     ;
 }
 
-.active2 a{
+.active2 a {
     text-decoration: underline !important;
-  }
+}
 
 #menu2 {
     background-color: #dd2e1c;
@@ -66,14 +66,16 @@
     font-family: 'Open Sans Condensed', sans-serif;
     background-color: #dd2e1c;
     color: #fff
-    
 }
-.restauratie a:hover{
+
+.restauratie a:hover {
     text-decoration: underline !important;
 }
-.evenementen a:hover{
+
+.evenementen a:hover {
     text-decoration: underline !important;
 }
-.contact a:hover{
+
+.contact a:hover {
     text-decoration: underline !important;
 }
