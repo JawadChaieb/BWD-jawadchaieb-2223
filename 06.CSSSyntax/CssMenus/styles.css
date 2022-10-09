@@ -63,13 +63,12 @@
 }
 
 #menu2:hover {
-    text-decoration: underline;
     font-family: 'Open Sans Condensed', sans-serif;
     background-color: #dd2e1c;
     color: #fff
     
 }
-/*.underline1 a:hover{
+.underline1 a:hover{
     text-decoration: underline !important;
 }
 .underline2 a;:hover{
