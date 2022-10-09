@@ -1,0 +1,44 @@
+html {
+   background-color: #fff;
+   background-image: url(img/tile.png);
+   background-position: center;
+   background-size: 100%;
+   background-repeat: no-repeat;
+}
+
+body {
+   background-image: url(img/bg.png);
+   font-size: 14px;
+   text-align: center;
+   background-repeat: no-repeat;
+   background-position: center;
+   border: 15px solid white;
+   height: 280px;
+   margin: 20px auto;
+   max-width: 180px;
+   font-family: 'Brush Script MT', cursive;
+}
+
+body {
+   box-shadow: 1px 1px 10px;
+}
+
+mark {
+   background-color: rgb(243, 156, 125);
+   font-weight: 700;
+   box-shadow: 5px 5px 5px #888;
+}
+
+footer {
+   font-size: 10px;
+   text-indent: 30%;
+   margin-top: 20px;
+}
+
+footer p {
+   margin: 0;
+}
+
+.date {
+   margin-top: 10px;
+}

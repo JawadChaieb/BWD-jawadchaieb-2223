@@ -1,0 +1,80 @@
+.active1 a{
+    background-color: #74c593!important;
+  }
+
+#menu1 {
+    list-style: none;
+    padding: 6px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#menu1 a {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    display: inline-block;
+    font-weight: normal;
+    letter-spacing: 2px;
+    letter-spacing: normal;
+    transition: 0.2s, width 1s;
+    list-style: none;
+    margin: 2px;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 100px
+}
+
+#menu1 a:hover {
+    background-color: #74c593;
+    display: inline-block;
+    font-weight: normal;
+    list-style: none;
+    margin: 2px;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 100px;
+    ;
+}
+
+.active2 a{
+    text-decoration: underline !important;
+  }
+
+#menu2 {
+    background-color: #dd2e1c;
+    color: #fff;
+    transition: background 0.5s, width 1s;
+    padding: 20px;
+    display: flex;
+    list-style: none;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#menu2 a {
+    background-color: #dd2e1c;
+    border-bottom: #e37e73;
+    text-transform: uppercase;
+    padding: 10px;
+    list-style: none;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#menu2:hover {
+    text-decoration: underline;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: #dd2e1c;
+    color: #fff
+    
+}
+/*.underline1 a:hover{
+    text-decoration: underline !important;
+}
+.underline2 a;:hover{
+    text-decoration: underline !important;
+}
+.underline3 a:hover{
+    text-decoration: underline !important;
+}

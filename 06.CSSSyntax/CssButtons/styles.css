@@ -1,0 +1,52 @@
+a.btn1 {
+    font-family: arial;
+    background-color: #ccc;
+    color: black;
+    transition: background 1s, width 1s;
+    width: 300px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+a.btn1:hover {
+    background-color: #0f0f0f;
+    color: rgb(248, 247, 247);
+    width: 300px;
+    padding: 10px;
+}
+
+a.btn2 {
+    text-decoration: none;
+    font-family: arial;
+    color: rgb(224, 217, 217);
+    background-color: brown;
+    border-radius: 15px;
+    transition: background 0.5s, width 1s;
+    width: 300px;
+    padding: 10px;
+}
+
+a.btn2:hover {
+    background-color: rgb(192, 68, 68);
+    border-radius: 15px;
+    color: rgb(224, 217, 217);
+    width: 300px;
+    padding: 10px;
+}
+
+a.btn3 {
+    text-decoration: none;
+    font-family: arial;
+    color: rgb(87, 83, 83);
+    background-color: rgb(236, 229, 229);
+    transition: background s, width 1s;
+    width: 300px;
+    padding: 10px;
+}
+
+a.btn3:hover {
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+    width: 300px;
+    padding: 10px;
+}
