@@ -68,12 +68,12 @@
     color: #fff
     
 }
-.underline1 a:hover{
+.restauratie a:hover{
     text-decoration: underline !important;
 }
-.underline2 a;:hover{
+.evenementen a:hover{
     text-decoration: underline !important;
 }
-.underline3 a:hover{
+.contact a:hover{
     text-decoration: underline !important;
 }
