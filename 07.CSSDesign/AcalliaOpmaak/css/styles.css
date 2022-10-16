@@ -1,0 +1,138 @@
+/**
+ *
+ * Common styles
+ *
+ * @author Jawad Chaïeb
+ *
+ */
+
+/* ===========================================
+   General
+   =========================================== */
+
+/* html, body and general element styles here */
+/* ... */
+
+body {
+   font-family: 'Roboto', sans-serif;
+   font-size: 13px;
+}
+
+h3 {
+   color: #B52025;
+   font-size: 18px;
+   text-transform: uppercase;
+}
+
+.newsletter h3::after {
+   content: '\2192';
+   font-size: 20px;
+}
+
+/* ===========================================
+   Menu
+   =========================================== */
+
+/* menu styles here */
+/* ... */
+
+nav ul {
+   transition: transition background 0.2s, ease 0 sec;
+   list-style: none;
+   padding: 0px 0px;
+   display: flex;
+}
+
+nav ul a {
+   color: black;
+   letter-spacing: 0px;
+   line-height: 20px;
+   padding: 5px 5px;
+   text-transform: uppercase;
+   text-decoration: none;
+}
+
+nav ul :hover {
+   background-color: #B52025;
+   color: #fff;
+   line-height: 1.8;
+   padding: 10px 10px;
+   text-decoration: underline;
+}
+
+
+/* ===========================================
+   Banner
+   =========================================== */
+
+/* banner styles here */
+/* ... */
+
+#banner {
+   background-image: url(/07.CSSDesign/AcalliaOpmaak/img/slider_photo2.jpg);
+   background-repeat: no-repeat;
+   border: 5px solid #b52025;
+   font-size: 13px;
+}
+
+img.minibanner {
+   border: 0.2px solid #dfdfdf;
+}
+
+#banner p {
+   background-color: #dfdfdf;
+   color: #fff;
+}
+
+/* ===========================================
+   Main
+   =========================================== */
+
+/* main styles here */
+/* ... */
+
+.more a {
+   color: #B52025;
+   border: 1px solid #B52025;
+   border-radius: 6px;
+   text-decoration: none;
+   position: relative;
+   padding: 5px 16px;
+}
+
+.more {
+   text-align: right;
+   margin: 30px 0px 0px 0px;
+}
+
+.more a:hover {
+   text-decoration: underline;
+}
+
+.more::after {
+   color: #B52025;
+   content: '\00BB';
+   font-size: 13px;
+   position: relative;
+   right: 15px;
+}
+
+input[type=text] {
+   background-color: #fdeaeb;
+}
+
+input[type=submit] {
+   background-color: #B52025;
+   color: #fff;
+}
+
+/* ===========================================
+   Footer
+   =========================================== */
+
+/* footer styles here */
+/* ... */
+
+footer {
+   padding: 0px 0px 0px 250px;
+}

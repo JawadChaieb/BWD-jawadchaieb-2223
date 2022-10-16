@@ -1,0 +1,100 @@
+/**
+ * Layout styles for Desert Tours
+ *
+ * @author Rogier van der Linde <rogier.vanderlinde@kahosl.be>
+ *
+ */
+
+/* GENERAL */
+/* ======= */
+
+.wrapper {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+#gallery li {
+    width: 23%;
+    margin-bottom: 10px;
+}
+
+#gallery ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* HEADER */
+/* ====== */
+
+header .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    padding-left: 20px;
+}
+
+/* MAIN */
+/* ====== */
+
+#content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+#content .right {
+    width: 30%;
+}
+
+#content .left {
+    width: 65%;
+}
+
+#content .left img {
+    float: left;
+    margin-right: 5px;
+}
+
+#content .right img {
+    float: right;
+    margin-left: 5px;
+}
+
+/* CONTENT */
+/* ======= */
+
+/* DOORMAT */
+/* ======= */
+
+.wrapper #doormat {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* FOOTER */
+/* ======= */
+
+footer .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
