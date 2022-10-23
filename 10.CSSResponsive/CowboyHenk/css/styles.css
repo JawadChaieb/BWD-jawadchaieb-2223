@@ -331,12 +331,12 @@ nav li a {
 	}
 
 	aside {
-		width: 34%;
+		width: 35%;
 	}
 
 	.site_footer .social {
 		text-align: right;
-		margin-top: 32px;
+		margin-top: 30px;
 	}
 
 	.entry_footer {
@@ -347,7 +347,7 @@ nav li a {
 	.site_footer .wrapper {
 		display: flex;
 		justify-content: space-between;
-		margin-top: 16px;
-		padding: 32px 16px;
+		margin-top: 17px;
+		padding: 30px 18px;
 	}
 }
