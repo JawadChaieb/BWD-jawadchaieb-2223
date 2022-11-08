@@ -48,6 +48,7 @@ en bij deze laatste pagina kan je team bekijken, daar begrijp je dan ook dat het
 
 ## E. REFERENTIES (optioneel) 
 zet hier links naar bronnen als de eventuele huidige website, sites of designs waar je je op wil inspireren... 
+https://nuts.com/nuts/
 
 online versie [https://www.mijndomein.com](https://www.mijndomein.com)  
 gebruikte CSS design: [https://www.gratis-css-site.com/gekozen-design](https://www.gratis-css-site.com/gekozen-design) 
